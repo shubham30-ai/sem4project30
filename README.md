@@ -1,1 +1,1 @@
-adding greeting text to text.txt
+Adding greeting text to text.txt
